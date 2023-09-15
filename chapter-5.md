@@ -120,20 +120,20 @@ Alice folded her hands, and began:—
 ![An image of the young man seeing an eel come out of Father William's nose](img/illustration-19.png)
 
 
-“You are old,” said the youth, “one would hardly suppose
-    That your eye was as steady as ever;
-Yet you balanced an eel on the end of your nose—
-    What made you so awfully clever?”
+*“You are old,” said the youth, “one would hardly suppose*
+    *That your eye was as steady as ever;*
+*Yet you balanced an eel on the end of your nose—*
+    *What made you so awfully clever?”*
 
-“I have answered three questions, and that is enough,”
-    Said his father; “don’t give yourself airs!
-Do you think I can listen all day to such stuff?
-    Be off, or I’ll kick you down stairs!”
+*“I have answered three questions, and that is enough,”*
+    *Said his father; “don’t give yourself airs!*
+*Do you think I can listen all day to such stuff?*
+    *Be off, or I’ll kick you down stairs!”*
 
 
 “That is not said right,” said the Caterpillar.
 
-“Not _quite_ right, I’m afraid,” said Alice, timidly; “some of the
+“Not *quite* right, I’m afraid,” said Alice, timidly; “some of the
 words have got altered.”
 
 “It is wrong from beginning to end,” said the Caterpillar decidedly,
@@ -146,14 +146,14 @@ The Caterpillar was the first to speak.
 “Oh, I’m not particular as to size,” Alice hastily replied; “only one
 doesn’t like changing so often, you know.”
 
-“I _don’t_ know,” said the Caterpillar.
+“I *don’t* know,” said the Caterpillar.
 
 Alice said nothing: she had never been so much contradicted in her life
 before, and she felt that she was losing her temper.
 
 “Are you content now?” said the Caterpillar.
 
-“Well, I should like to be a _little_ larger, sir, if you wouldn’t
+“Well, I should like to be a *little* larger, sir, if you wouldn’t
 mind,” said Alice: “three inches is such a wretched height to be.”
 
 “It is a very good height indeed!” said the Caterpillar angrily,
@@ -173,7 +173,7 @@ mushroom, and crawled away in the grass, merely remarking as it went,
 “One side will make you grow taller, and the other side will make you
 grow shorter.”
 
-“One side of _what?_ The other side of _what?_” thought Alice to
+“One side of *what?* The other side of *what?*” thought Alice to
 herself.
 
 “Of the mushroom,” said the Caterpillar, just as if she had asked it
@@ -209,7 +209,7 @@ were nowhere to be found: all she could see, when she looked down, was
 an immense length of neck, which seemed to rise like a stalk out of a
 sea of green leaves that lay far below her.
 
-“What _can_ all that green stuff be?” said Alice. “And where _have_ my
+“What *can* all that green stuff be?” said Alice. “And where *have* my
 shoulders got to? And oh, my poor hands, how is it I can’t see you?”
 She was moving them about as she spoke, but no result seemed to follow,
 except a little shaking among the distant green leaves.
@@ -225,7 +225,7 @@ face, and was beating her violently with its wings.
 
 “Serpent!” screamed the Pigeon.
 
-“I’m _not_ a serpent!” said Alice indignantly. “Let me alone!”
+“I’m *not* a serpent!” said Alice indignantly. “Let me alone!”
 
 “Serpent, I say again!” repeated the Pigeon, but in a more subdued
 tone, and added with a kind of sob, “I’ve tried every way, and nothing
@@ -252,9 +252,9 @@ Pigeon, raising its voice to a shriek, “and just as I was thinking I
 should be free of them at last, they must needs come wriggling down
 from the sky! Ugh, Serpent!”
 
-“But I’m _not_ a serpent, I tell you!” said Alice. “I’m a—I’m a—”
+“But I’m *not* a serpent, I tell you!” said Alice. “I’m a—I’m a—”
 
-“Well! _What_ are you?” said the Pigeon. “I can see you’re trying to
+“Well! *What* are you?” said the Pigeon. “I can see you’re trying to
 invent something!”
 
 “I—I’m a little girl,” said Alice, rather doubtfully, as she remembered
@@ -262,11 +262,11 @@ the number of changes she had gone through that day.
 
 “A likely story indeed!” said the Pigeon in a tone of the deepest
 contempt. “I’ve seen a good many little girls in my time, but never
-_one_ with such a neck as that! No, no! You’re a serpent; and there’s
+*one* with such a neck as that! No, no! You’re a serpent; and there’s
 no use denying it. I suppose you’ll be telling me next that you never
 tasted an egg!”
 
-“I _have_ tasted eggs, certainly,” said Alice, who was a very truthful
+“I *have* tasted eggs, certainly,” said Alice, who was a very truthful
 child; “but little girls eat eggs quite as much as serpents do, you
 know.”
 
@@ -275,12 +275,12 @@ they’re a kind of serpent, that’s all I can say.”
 
 This was such a new idea to Alice, that she was quite silent for a
 minute or two, which gave the Pigeon the opportunity of adding, “You’re
-looking for eggs, I know _that_ well enough; and what does it matter to
+looking for eggs, I know *that* well enough; and what does it matter to
 me whether you’re a little girl or a serpent?”
 
-“It matters a good deal to _me_,” said Alice hastily; “but I’m not
+“It matters a good deal to *me*,” said Alice hastily; “but I’m not
 looking for eggs, as it happens; and if I was, I shouldn’t want
-_yours_: I don’t like them raw.”
+*yours*: I don’t like them raw.”
 
 “Well, be off, then!” said the Pigeon in a sulky tone, as it settled
 down again into its nest. Alice crouched down among the trees as well
@@ -297,9 +297,9 @@ and began talking to herself, as usual. “Come, there’s half my plan
 done now! How puzzling all these changes are! I’m never sure what I’m
 going to be, from one minute to another! However, I’ve got back to my
 right size: the next thing is, to get into that beautiful garden—how
-_is_ that to be done, I wonder?” As she said this, she came suddenly
+*is* that to be done, I wonder?” As she said this, she came suddenly
 upon an open place, with a little house in it about four feet high.
 “Whoever lives there,” thought Alice, “it’ll never do to come upon them
-_this_ size: why, I should frighten them out of their wits!” So she
+*this* size: why, I should frighten them out of their wits!” So she
 began nibbling at the righthand bit again, and did not venture to go
 near the house till she had brought herself down to nine inches high.
