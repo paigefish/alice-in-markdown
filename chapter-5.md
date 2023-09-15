@@ -1,22 +1,23 @@
-CHAPTER V.
-Advice from a Caterpillar
+![An image of a caterpillar with a hookah with Alice looking at it](img/illustration-15.png)
 
+# CHAPTER V.
+## ADVICE FROM A CATERPILLAR
 
 The Caterpillar and Alice looked at each other for some time in
 silence: at last the Caterpillar took the hookah out of its mouth, and
 addressed her in a languid, sleepy voice.
 
-“Who are _you?_” said the Caterpillar.
+“Who are *you?*” said the Caterpillar.
 
 This was not an encouraging opening for a conversation. Alice replied,
 rather shyly, “I—I hardly know, sir, just at present—at least I know
-who I _was_ when I got up this morning, but I think I must have been
+who I *was* when I got up this morning, but I think I must have been
 changed several times since then.”
 
 “What do you mean by that?” said the Caterpillar sternly. “Explain
 yourself!”
 
-“I can’t explain _myself_, I’m afraid, sir,” said Alice, “because I’m
+“I can’t explain *myself*, I’m afraid, sir,” said Alice, “because I’m
 not myself, you see.”
 
 “I don’t see,” said the Caterpillar.
@@ -35,19 +36,19 @@ queer, won’t you?”
 “Not a bit,” said the Caterpillar.
 
 “Well, perhaps your feelings may be different,” said Alice; “all I know
-is, it would feel very queer to _me_.”
+is, it would feel very queer to *me*.”
 
-“You!” said the Caterpillar contemptuously. “Who are _you?_”
+“You!” said the Caterpillar contemptuously. “Who are *you?*”
 
 Which brought them back again to the beginning of the conversation.
-Alice felt a little irritated at the Caterpillar’s making such _very_
+Alice felt a little irritated at the Caterpillar’s making such *very*
 short remarks, and she drew herself up and said, very gravely, “I
-think, you ought to tell me who _you_ are, first.”
+think, you ought to tell me who *you* are, first.”
 
 “Why?” said the Caterpillar.
 
 Here was another puzzling question; and as Alice could not think of any
-good reason, and as the Caterpillar seemed to be in a _very_ unpleasant
+good reason, and as the Caterpillar seemed to be in a *very* unpleasant
 state of mind, she turned away.
 
 “Come back!” the Caterpillar called after her. “I’ve something
@@ -71,14 +72,17 @@ think you’re changed, do you?”
 “I’m afraid I am, sir,” said Alice; “I can’t remember things as I
 used—and I don’t keep the same size for ten minutes together!”
 
-“Can’t remember _what_ things?” said the Caterpillar.
+“Can’t remember *what* things?” said the Caterpillar.
 
-“Well, I’ve tried to say “How doth the little busy bee,” but it all
+“Well, I’ve tried to say “*How doth the little busy bee*,” but it all
 came different!” Alice replied in a very melancholy voice.
 
-“Repeat, “_You are old, Father William_,’” said the Caterpillar.
+“Repeat, “*You are old, Father William*,’” said the Caterpillar.
 
 Alice folded her hands, and began:—
+
+![An image of a young man looking at Father William who is on his head](img/illustration-16.png)
+
 
 “You are old, Father William,” the young man said,
     “And your hair has become very white;
