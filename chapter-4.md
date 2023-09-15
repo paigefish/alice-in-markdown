@@ -185,11 +185,11 @@ like a Jack-in-the-box, and up I goes like a sky-rocket!”
 called out as loud as she could, “If you do, I’ll set Dinah at you!”
 
 There was a dead silence instantly, and Alice thought to herself, “I
-wonder what they _will_ do next! If they had any sense, they’d take the
+wonder what they *will* do next! If they had any sense, they’d take the
 roof off.” After a minute or two, they began moving about again, and
 Alice heard the Rabbit say, “A barrowful will do, to begin with.”
 
-“A barrowful of _what?_” thought Alice; but she had not long to doubt,
+“A barrowful of *what?*” thought Alice; but she had not long to doubt,
 for the next moment a shower of little pebbles came rattling in at the
 window, and some of them hit her in the face. “I’ll put a stop to
 this,” she said to herself, and shouted out, “You’d better not do that
@@ -198,7 +198,7 @@ again!” which produced another dead silence.
 Alice noticed with some surprise that the pebbles were all turning into
 little cakes as they lay on the floor, and a bright idea came into her
 head. “If I eat one of these cakes,” she thought, “it’s sure to make
-_some_ change in my size; and as it can’t possibly make me larger, it
+*some* change in my size; and as it can’t possibly make me larger, it
 must make me smaller, I suppose.”
 
 So she swallowed one of the cakes, and was delighted to find that she
@@ -230,7 +230,13 @@ spite of all her coaxing.
 
 Hardly knowing what she did, she picked up a little bit of stick, and
 held it out to the puppy; whereupon the puppy jumped into the air off
-all its feet at once, with a yelp of delight, and rushed at the stick,
+all its feet at once, with a yelp of delight, and rushed at 
+
+
+![I big dog looks scared looking at the small girl](img/illustration-14.png)
+
+
+the stick,
 and made believe to worry it; then Alice dodged behind a great thistle,
 to keep herself from being run over; and the moment she appeared on the
 other side, the puppy made another rush at the stick, and tumbled head
@@ -250,7 +256,7 @@ and till the puppy’s bark sounded quite faint in the distance.
 against a buttercup to rest herself, and fanned herself with one of the
 leaves: “I should have liked teaching it tricks very much, if—if I’d
 only been the right size to do it! Oh dear! I’d nearly forgotten that
-I’ve got to grow up again! Let me see—how _is_ it to be managed? I
+I’ve got to grow up again! Let me see—how *is* it to be managed? I
 suppose I ought to eat or drink something or other; but the great
 question is, what?”
 
@@ -267,3 +273,8 @@ mushroom, and her eyes immediately met those of a large blue
 caterpillar, that was sitting on the top with its arms folded, quietly
 smoking a long hookah, and taking not the smallest notice of her or of
 anything else.
+
+## List of Figures
+- [Figure 1](id)
+- [Figure 2](id)
+- [Figure 3](id)
