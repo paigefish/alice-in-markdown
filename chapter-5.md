@@ -303,3 +303,9 @@ upon an open place, with a little house in it about four feet high.
 *this* size: why, I should frighten them out of their wits!” So she
 began nibbling at the righthand bit again, and did not venture to go
 near the house till she had brought herself down to nine inches high.
+
+## List of Figures
+- [Figure 1](id)
+- [Figure 2](id)
+- [Figure 3](id)
+- [Figure 4](id)
