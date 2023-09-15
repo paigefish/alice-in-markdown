@@ -1,0 +1,19 @@
+
+html {
+    max-width: 960px;
+    font-size: 16px;
+    line-height: 1.25; 
+    font-family: Atkinson Hyperlegible;
+}
+img {
+    max-width: 4
+}
+figure {
+    padding: 5%;
+    background-color: red;
+}
+
+figcaption {
+    font-size: 80%;
+    font-family: sans-serif;
+}
